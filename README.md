@@ -2,8 +2,6 @@
 
 This project is a demonstration of building and deploying a question answering system using the Hugging Face Transformers library. The system is capable of answering questions based on a given context, making it suitable for various applications such as customer support, information retrieval, and chatbots.
 
-## Overview
-
 The project follows a step-by-step approach to develop and deploy the question answering system:
 
 1. **Data Preparation**: Preprocess and organize the data required for training and evaluation. This involves selecting appropriate datasets, cleaning the data, and formatting it for input into the model.
